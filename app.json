@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "animeSeeker",
+    "slug": "animeSeeker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
